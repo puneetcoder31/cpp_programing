@@ -8,7 +8,5 @@ int main()
     cout<<++x;
     cout<<endl;
     cout<<y++;
-    cout<<endl;
-    cout<<x;
     return 0;
 }
