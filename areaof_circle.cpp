@@ -6,6 +6,4 @@ int main()
    cout<<"area of circle= ";
    cout<<pi*r*r;
    return 0;
-
-
 }
