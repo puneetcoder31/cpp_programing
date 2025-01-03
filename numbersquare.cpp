@@ -7,7 +7,7 @@ int main(){ int a;
         cout<<("enter the number of column you want=");
         cin>>c;
     for(int x=1;x<=a;x++){
-        for(int b=1;b<=c;b++ ){
+        for(int b=0;b<=x;b++ ){
         cout<<"  "<<b<<"  ";}
         cout<<endl; }
 
