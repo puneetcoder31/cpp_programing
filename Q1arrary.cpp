@@ -8,6 +8,7 @@ int main() {
         if (arr[i]<=35){
             cout << "fail" << "   ";
             cout<<"roll no.="<<i << endl; };
+            
         }}
 
         
