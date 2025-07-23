@@ -2,7 +2,7 @@
 using namespace std;
 void subarray(int arr[],int s){
     for(int start=0; start<s;start++){
-        for(int end =0;end<s;end++){
+        for(int end =start;end<s;end++){
             for (int i=start; i<=end;i++){
                 cout<<arr[i]<<" ";
             }cout<<endl;
